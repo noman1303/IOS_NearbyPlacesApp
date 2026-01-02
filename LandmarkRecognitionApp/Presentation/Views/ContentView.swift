@@ -2,7 +2,7 @@
 import SwiftUI
 
 // 🔑 Replace with your own Google Vision API key
-private let GOOGLE_VISION_API_KEY =   "AIzaSyCqafK_zWnJ1h7ZY_KTpsxmHRCQDAZzw_Q"
+private let GOOGLE_VISION_API_KEY =   "YOUR_API_KEY"
 
 struct ContentView: View {
 
